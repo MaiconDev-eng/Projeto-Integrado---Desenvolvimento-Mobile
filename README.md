@@ -8,6 +8,8 @@ O **CampoLog** é um aplicativo mobile desenvolvido como projeto acadêmico no c
 
 A solução foi criada para atender às necessidades da empresa AgroZaneratto, que enfrentava dificuldades com registros manuais, como perda de informações, erros e falta de organização dos dados.
 
+Vídeo : https://www.youtube.com/watch?v=e53HKqVB-Hs
+
 ### 🚜 Principais funcionalidades
 
 * Cadastro de usuários
