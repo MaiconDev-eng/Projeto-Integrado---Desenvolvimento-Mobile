@@ -32,7 +32,3 @@ A solução foi criada para atender às necessidades da empresa AgroZaneratto, q
 ### 🎯 Objetivo
 
 Digitalizar e melhorar a gestão das atividades agrícolas, proporcionando maior controle, eficiência operacional e suporte na tomada de decisões.
-
----
-
-Se quiser, posso adaptar essa descrição pra ficar mais profissional ainda (tipo padrão de empresas) ou mais simples 👍
