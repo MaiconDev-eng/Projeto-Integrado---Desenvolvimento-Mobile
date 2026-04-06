@@ -37,10 +37,8 @@ Administradores/gestores agrícolas
 
 🚀 Funcionalidades
 
-Usuários
 Cadastro e autenticação de usuários
 
-Operações em Campo
 Registro de aplicações por operador e talhão
 
 Funcionamento offline
