@@ -22,6 +22,7 @@ Apoio à tomada de decisão
 Acompanhamento por operadores e gestores
 
 👥 Público-Alvo
+
 Operadores de campo
 Administradores/gestores agrícolas
 
