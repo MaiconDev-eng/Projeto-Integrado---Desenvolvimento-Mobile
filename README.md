@@ -4,6 +4,7 @@ Aplicativo mobile para registro, monitoramento e gestão de aplicações agríco
 
 Vídeo : https://www.youtube.com/watch?v=e53HKqVB-Hs
 
+
 📌 Sobre o Projeto
 
 O CampoLog foi desenvolvido como parte do Projeto Integrado de Desenvolvimento Mobile, com o objetivo de solucionar problemas enfrentados no agronegócio relacionados ao controle de aplicações de insumos.
@@ -12,6 +13,7 @@ Perda de informações
 Registros incorretos
 Dificuldade na tomada de decisão
 O CampoLog digitaliza esse processo, trazendo organização, precisão e eficiência.
+
 
 🎯 Objetivo
 
@@ -25,20 +27,20 @@ Apoio à tomada de decisão
 
 Acompanhamento por operadores e gestores
 
+
 👥 Público-Alvo
 
 Operadores de campo
 
 Administradores/gestores agrícolas
 
+
 🚀 Funcionalidades
 
 Usuários
-
 Cadastro e autenticação de usuários
 
 Operações em Campo
-
 Registro de aplicações por operador e talhão
 
 Funcionamento offline
@@ -53,23 +55,28 @@ Relatórios consolidados (diário, mensal e anual)
 
 Exportação de relatórios (PDF/Excel)
 
+
 🛠️ Tecnologias Utilizadas
 
 Flutter
 
 Dart
 
+
 💻 Backend
 
 Node.js / Express ou Spring Boot
+
 
 🗄️ Banco de Dados
 
 PostgreSQL ou MySQL
 
+
 ☁️ Infraestrutura
 
 AWS / Azure / Google Cloud
+
 
 🧪 Testes
 
@@ -77,11 +84,13 @@ Flutter Test (testes unitários)
 
 Integration Test (testes de integração)
 
+
 🔧 Ferramentas
 
 Visual Studio Code
 
 GitHub
+
 
 📐 Arquitetura do Sistema
 
@@ -94,6 +103,7 @@ Backend API (Node.js ou Spring Boot)
 Banco de dados relacional
 
 Sincronização offline/online
+
 
 📋 Requisitos
 
@@ -125,6 +135,7 @@ RNF05: Backup e recuperação de dados
 
 RNF06: Interface intuitiva e acessível
 
+
 📱 Telas do Sistema
 
 Tela de Login
@@ -139,9 +150,11 @@ Consulta de Aplicações
 
 Relatórios
 
+
 🧪 Testes
 
 O projeto utiliza duas abordagens principais:
+
 
 🔎 Testes de Caixa Preta
 
@@ -153,6 +166,7 @@ Navegação
 
 Fluxo completo de uso
 
+
 ⚙️ Testes de Caixa Branca
 
 Foco na estrutura interna:
@@ -163,6 +177,7 @@ Validação de regras de negócio
 
 Integração entre componentes
 
+
 📈 Resultados Esperados
 
 Redução de erros de registro
@@ -172,6 +187,7 @@ Melhor organização dos dados
 Aumento da eficiência operacional
 
 Apoio à tomada de decisão
+
 
 ⚠️ Dificuldades Encontradas
 
@@ -184,6 +200,7 @@ Integração frontend/backend
 Aprendizado de Flutter/Dart
 
 Validação e consistência de dados
+
 
 💡 Melhorias Futuras
 
@@ -198,6 +215,7 @@ Controle detalhado de insumos e custos
 Controle de permissões por usuário
 
 Relatórios mais avançados
+
 
 🤝Contribuidores
 
