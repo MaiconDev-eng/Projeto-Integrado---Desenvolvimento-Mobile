@@ -135,10 +135,15 @@ Controle de permissões por usuário
 Relatórios mais avançados
 
 🤝Contribuidores
+
 Antonio Tiago Zaneratto, R.A: 24000696 
+
 Laís de Oliveira Lavras, RA: 1012023200359 
+
 Luis Felipe da Silva Nogueira, RA:24000897 
+
 Maicon Bruno Corrêa da Silva, R.A: 24000795 
+
 Vinicius da Silva Giovaneli, RA: 24000478 
 
 
