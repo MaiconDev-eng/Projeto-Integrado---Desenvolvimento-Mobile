@@ -36,7 +36,7 @@ Registro de aplicações por operador e talhão
 Funcionamento offline
 Sincronização de dados posterior
 
-📊 Consultas e Relatórios
+Consultas e Relatórios
 Histórico de aplicações
 Relatórios consolidados (diário, mensal e anual)
 Exportação de relatórios (PDF/Excel)
