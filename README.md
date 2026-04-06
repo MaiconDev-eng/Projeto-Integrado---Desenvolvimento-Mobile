@@ -28,10 +28,10 @@ Administradores/gestores agrícolas
 
 🚀 Funcionalidades
 
-🔐 Usuários
+Usuários
 Cadastro e autenticação de usuários
 
-🌾 Operações em Campo
+Operações em Campo
 Registro de aplicações por operador e talhão
 Funcionamento offline
 Sincronização de dados posterior
@@ -43,7 +43,6 @@ Exportação de relatórios (PDF/Excel)
 
 🛠️ Tecnologias Utilizadas
 
-📱 Mobile
 Flutter
 Dart
 
@@ -74,7 +73,7 @@ Sincronização offline/online
 
 📋 Requisitos
 
-✅ Funcionais
+Funcionais
 RF01: Cadastro e autenticação de usuários
 RF02: Registro de aplicações por operador e talhão
 RF03: Consulta de histórico
@@ -82,7 +81,7 @@ RF04: Relatórios consolidados
 RF05: Exportação de relatórios
 RF06: Funcionamento offline com sincronização
 
-⚙️ Não Funcionais
+Não Funcionais
 Aplicativo híbrido
 Backend escalável
 Banco de dados relacional
@@ -128,14 +127,14 @@ Validação e consistência de dados
 
 💡 Melhorias Futuras
 
-📊 Dashboards e gráficos
-📍 Geolocalização de talhões
-🔔 Notificações e alertas
-💰 Controle detalhado de insumos e custos
-🔐 Controle de permissões por usuário
-📄 Relatórios mais avançados
+Dashboards e gráficos
+Geolocalização de talhões
+Notificações e alertas
+Controle detalhado de insumos e custos
+Controle de permissões por usuário
+Relatórios mais avançados
 
-🤝 Contribuidores
+🤝Contribuidores
 Antonio Tiago Zaneratto
 Laís de Oliveira Lavras
 Luis Felipe da Silva Nogueira
