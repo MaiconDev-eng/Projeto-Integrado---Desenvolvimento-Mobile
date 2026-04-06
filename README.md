@@ -82,12 +82,12 @@ RF05: Exportação de relatórios
 RF06: Funcionamento offline com sincronização
 
 Não Funcionais
-Aplicativo híbrido
-Backend escalável
-Banco de dados relacional
-Infraestrutura em nuvem
-Backup e recuperação de dados
-Interface intuitiva e acessível
+RNF01: Aplicativo híbrido
+RNF02: Backend escalável
+RNF03: Banco de dados relacional
+RNF04: Infraestrutura em nuvem
+RNF05: Backup e recuperação de dados
+RNF06: Interface intuitiva e acessível
 
 📱 Telas do Sistema
 Tela de Login
@@ -135,11 +135,11 @@ Controle de permissões por usuário
 Relatórios mais avançados
 
 🤝Contribuidores
-Antonio Tiago Zaneratto
-Laís de Oliveira Lavras
-Luis Felipe da Silva Nogueira
-Maicon Bruno Corrêa da Silva
-Vinicius da Silva Giovaneli
+Antonio Tiago Zaneratto, R.A: 24000696 
+Laís de Oliveira Lavras, RA: 1012023200359 
+Luis Felipe da Silva Nogueira, RA:24000897 
+Maicon Bruno Corrêa da Silva, R.A: 24000795 
+Vinicius da Silva Giovaneli, RA: 24000478 
 
 
 📌 Considerações Finais
